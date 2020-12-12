@@ -1,1 +1,3 @@
 This is a test file, part of a git trainning.
+
+Only this line will be commited.
